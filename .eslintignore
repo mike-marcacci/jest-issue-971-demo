@@ -1,0 +1,3 @@
+/_projects/**
+/node_modules/**
+/flow-typed/**
